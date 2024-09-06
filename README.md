@@ -10,7 +10,7 @@ The application scrapes information from a LinkedIn profile, and places it into 
 ## Installation
 
 ### Prerequisites
-- [Python 3.11](https://www.python.org/downloads/) (for Python-based apps)
+- [Python 3.11](https://www.python.org/downloads/)
 - Git
 
 ### Clone the repository
